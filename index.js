@@ -1,0 +1,1 @@
+process.stdout.write(`Use 'npm test' or 'npm run watch' to run tests\n`);
